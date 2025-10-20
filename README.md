@@ -6,11 +6,11 @@ Project Idea:
  Digital Transformation in Education
 
 Team Members:
- Adham Ayman Galal ( Team Leader )
- Mai Mohamed Abdo
- Mohamed Fathi Mohamed
- Sara Abd El-Aziem Ahmed
- Ahmed Yasser Ahmed
+- Adham Ayman Galal ( Team Leader )
+- Mai Mohamed Abdo
+- Mohamed Fathi Mohamed
+- Sara Abd El-Aziem Ahmed
+- Ahmed Yasser Ahmed
 
 Work Plan:
 Start Point - 1/10/2025
