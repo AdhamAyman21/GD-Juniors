@@ -3,7 +3,7 @@ Project Name:
 NeoED
 
 Project Idea:
-Digital Transformation in Education
+ Digital Transformation in Education
 
 Team Members:
  Adham Ayman Galal ( Team Leader )
@@ -14,11 +14,10 @@ Team Members:
 
 Work Plan:
 Start Point - 1/10/2025
-
 Research & Analysis - 1 Week
 - Product Analysis - 2 Days
 - Content Research - 2 Days
-- Elements Research - 2 Days 
+- Elements Research - 2 Days
 - Reviewing - 1 Days
 
 Visual Identity - 10 Days 
